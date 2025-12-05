@@ -20,13 +20,17 @@ It features **play/pause**, **volume control**, and a **draggable progress bar**
 
 ---
 
-![Music Player UI](./src/assets/music%20app1.png)
-![Music Player UI](./src/assets/music%20app2.png)
-![Music Player UI](./src/assets/music%20app3.png)
+<img width="1919" height="1016" alt="music app1" src="https://github.com/user-attachments/assets/7559c36a-3247-4871-be7c-4a514263ab06" />
+
+<img width="1919" height="1014" alt="music app2" src="https://github.com/user-attachments/assets/a653f2a9-3010-41a6-b216-47c5b5e0a9ba" />
+
+<img width="1919" height="1014" alt="music app2" src="https://github.com/user-attachments/assets/582056c5-5315-4e6c-9689-81dcfe2368de" />
+
 ![Music Player UI](./src/assets/music%20app4.png)
 
 ## 📂 Folder Structure
 
+```
 music-player-ui/
 ├── public/
 │ └── index.html
@@ -38,6 +42,7 @@ music-player-ui/
 │ └── main.jsx
 ├── package.json
 └── README.md
+```
 
 ---
 
