@@ -1,0 +1,81 @@
+/* ===== Global Styles ===== */
+body {
+  background: linear-gradient(135deg, #a8c0ff, #3f2b96);
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  color: #fff;
+}
+
+/* ===== Player Container ===== */
+.player-container {
+  width: 360px;
+  padding: 25px;
+  border-radius: 18px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(12px);
+  box-shadow: 0px 10px 18px rgba(0, 0, 0, 0.2);
+}
+
+/* ===== Heading ===== */
+.player-container h2 {
+  margin-bottom: 20px;
+  font-size: 1.6rem;
+}
+
+/* ===== Play/Pause Button ===== */
+.play-btn {
+  padding: 12px 25px;
+  font-size: 16px;
+  border: none;
+  border-radius: 30px;
+  background: #fff;
+  color: #3f2b96;
+  cursor: pointer;
+  font-weight: 600;
+  margin-bottom: 20px;
+  transition: 0.3s ease;
+}
+.play-btn:hover {
+  background: #eee;
+}
+
+/* ===== Progress Bar ===== */
+.progress-bar {
+  width: 100%;
+  height: 6px;
+  border-radius: 4px;
+  background: #ffffff80;
+  cursor: pointer;
+  margin-bottom: 20px;
+  -webkit-appearance: none;
+}
+.progress-bar::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 14px;
+  width: 14px;
+  background: #fff;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+/* ===== Volume Slider ===== */
+.volume-container {
+  font-size: 1rem;
+}
+.volume-slider {
+  width: 100%;
+  margin-top: 8px;
+  cursor: pointer;
+}
+.volume-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 14px;
+  width: 14px;
+  background: #fff;
+  border-radius: 50%;
+}
