@@ -22,11 +22,15 @@ It features **play/pause**, **volume control**, and a **draggable progress bar**
 
 <img width="1919" height="1016" alt="music app1" src="https://github.com/user-attachments/assets/7559c36a-3247-4871-be7c-4a514263ab06" />
 
+
 <img width="1919" height="1014" alt="music app2" src="https://github.com/user-attachments/assets/a653f2a9-3010-41a6-b216-47c5b5e0a9ba" />
 
-<img width="1919" height="1014" alt="music app2" src="https://github.com/user-attachments/assets/582056c5-5315-4e6c-9689-81dcfe2368de" />
 
-![Music Player UI](./src/assets/music%20app4.png)
+<img width="1919" height="1012" alt="music app3" src="https://github.com/user-attachments/assets/55c8d6f9-7121-4e63-ba62-b2fa9c2ee070" />
+
+
+<img width="1919" height="1015" alt="music app4" src="https://github.com/user-attachments/assets/011b18fb-6d4e-417b-9860-97d89d19c6a2" />
+
 
 ## 📂 Folder Structure
 
